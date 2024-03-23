@@ -1,8 +1,7 @@
 - 👋 Hola, soy @Fcortnez
-- 👀 Desde chico me apasiona la informática/computación, me encanta el desarrollo de nuevas tecnologías
+- 💼 Profe de Programación
 - 🎓 Soy Técnico en Informática profesional y personal en Programación
 - 🌱 Actualmente estoy estudiando Ingeniería en Sistemas de Información en la UTN FRBA
-- 💞️ Fundador del proyecto AVRV  [http://www.aulavirtualrv.com.ar]
 - 📫 Contacto: francortidf@gmail.com
 
 <!---
