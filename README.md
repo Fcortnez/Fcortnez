@@ -1,4 +1,4 @@
-- 👋 Hola, soy @Fcortnez
+- 👋 Hola, soy @Zenitroc
 - 💼 Profe de Programación
 - 🎓 Soy Técnico en Informática profesional y personal en Programación
 - 🌱 Actualmente estoy estudiando Ingeniería en Sistemas de Información en la UTN FRBA
